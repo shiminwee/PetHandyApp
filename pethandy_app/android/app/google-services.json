@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271474221388",
+    "project_id": "eggy-testing",
+    "storage_bucket": "eggy-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271474221388:android:c9e3c2735d7d1a9f48afe9",
+        "android_client_info": {
+          "package_name": "com.example.pethandy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATVeXR5kgvvoWYC7E3FBO0gLX9Eipo9Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
